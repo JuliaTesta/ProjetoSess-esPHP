@@ -35,8 +35,8 @@
 <body>
     <h1>Se increva no canal</h1>
     <div class="box">
-        <a href="">Login</a>
-        <a href="">Cadastre-se</a>
+        <a href="login.php">Login</a>
+        <a href="formulario.php">Cadastre-se</a>
     </div>
 </body>
 </html>
