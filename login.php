@@ -49,7 +49,7 @@
         <br><br>
         <input type="password" name="senha" placeholder="Senha">
         <br><br>
-        <input type="submit" value="Enviar" class="inputSubmit">
+        <input type="submit" value="Enviar" class="inputSubmit" name="submit">
         </form>
     </div>
 </body>
